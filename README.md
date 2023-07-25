@@ -1,7 +1,6 @@
 # Link-integration
-<img src="https://github.com/euichan2322/Link-Integration/blob/dd/logo/sample-diagram.gif" width="100">
+<img src="https://github.com/euichan2322/Link-Integration/blob/dd/logo/sample-diagram.gif" width="1000">
 
-----
 
 It changes the domain and path of your URL to make it easier to read and search. Using Route 53, S3, and Cloudfront
 

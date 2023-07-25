@@ -26,8 +26,6 @@ You must be able to create related resources with terraforms.
 
 
 ## To start
-
-change directory name /module/sample
 If your OS is Linux
 ```
 git clone https://github.com/euichan2322/Link-Integration

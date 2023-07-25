@@ -21,7 +21,7 @@ ex) euichan.com
 ex) *.euichan.com
 
 3. AWS Privileges
-Terraform will import these into data and use them.
+You must be able to create related resources with terraforms.
 
 
 

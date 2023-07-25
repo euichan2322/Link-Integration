@@ -38,6 +38,8 @@ sed -i '6s|euichan2322.notion.site/206b9e4a2f0e4aef99f4cfaf277fd27b?pvs=4|<your 
 terraform init
 terraform apply
 ```
+Please modify the contents in <> to suit your situation.
+
 ## Precautions
 
 #### 1. S3 bucket name will create your platform.domain

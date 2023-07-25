@@ -1,4 +1,4 @@
-# Link-integration
+# 링크 통합하기
 <img src="https://github.com/euichan2322/Link-Integration/blob/dd/logo/sample-diagram.gif" width="1000">
 
 Route 53, S3, cloudfront를 이용해 여러분의 url의 도메인과 경로를 통합하여 읽고 찾기 쉽게 만듭니다.

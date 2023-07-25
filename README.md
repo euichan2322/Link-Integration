@@ -21,7 +21,7 @@ Terraform will import these into data and use them.
 
 
 
-## To start use module
+## To start
 
 change directory name /module/sample
 If your OS is Linux
